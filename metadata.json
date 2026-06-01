@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Maryam AI",
+  "description": "ИИ-платформа для автоматического анализа медицинских снимков (КТ, МРТ, Рентген) для клиник Узбекистана.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
